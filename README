@@ -1,21 +1,46 @@
-bitaddress.org
-JavaScript Client-Side Bitcoin Wallet Generator
+**** LOOKING FOR THE ZIP FILE TO DOWNLOAD? ************************************
+If you're on already at https://github.com/TeamPiggyCoin/PiggyPaperAddresses
+Then just look for the button that says "Download ZIP". Look to your right -->
+*******************************************************************************
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+*** PiggyPaperAddresses ***
+
+This project is a fork of bitaddress.org,
+
+PiggyCoin fork Contact: neurocis / neurocis@gmail.com / www.piggy-coin.com
+bitaddess.org Contact: 'pointbiz' https://github.com/pointbiz/bitaddress.org
+
+Portions ©Copyright 2014 The PiggyCoin Team under the MIT license.
+
+****************************************************************************************
+****************************************************************************************
+* This TeamPiggyCoin project forked from bitcoinpaperwallet.org and many thanks for the
+* efforts of Artiom Chilaru (BIP38 implementation), and 'pointbiz' (original 
+* bitaddress.org code). Please consider donating to their project.
+* Bitcoin Donation Address: 123xQAU7og9iXKsKqP1s6S5bZUAHwNTK4T
+* GitHub Repository: 	https://github.com/TeamPiggyCoin/PiggyPaperWallet
+****************************************************************************************
+* The starting point for this code was the excellent single-file bitaddress.org project.
+* Bitcoin Donation Address: 1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
+* GitHub Repository:	https://github.com/pointbiz/bitaddress.org
+****************************************************************************************
+****************************************************************************************
+
+Portions of this code are copyrighted by their respective authors - see below.
+
+JavaScript Client-Side Piggycoin Wallet Generator
+
+Now Piggycoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
-The bitaddress.org project provides an all-in-one HTML document with embedded
-JavaScript/Css/Images. The JavaScript is readable not minified and contains no
-XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
-JavaScript locally and trust that the JavaScript did not change after being 
+The bitaddress.org (which this is forked from) project provides an all-in-one HTML 
+document with embedded JavaScript/Css/Images. The JavaScript is readable not minified 
+and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can 
+load the JavaScript locally and trust that the JavaScript did not change after being 
 loaded. 
 
 Here is a link to the BitcoinTalk.org forum topic discussing this project:
 https://bitcointalk.org/index.php?topic=43496.0
-
-
-Please send DONATIONS for this project to Bitcoin Address: 
-1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
 
 
 END USER NOTES: 
